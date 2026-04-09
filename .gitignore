@@ -1,0 +1,25 @@
+# Machine Learning Models & Data
+ML_Models/
+*.model
+*.npy
+
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
