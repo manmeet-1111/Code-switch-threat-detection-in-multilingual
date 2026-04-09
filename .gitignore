@@ -2,7 +2,6 @@
 ML_Models/
 *.model
 *.npy
-
 *.pkl
 
 # Python
